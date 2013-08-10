@@ -1,0 +1,15 @@
+body {
+	margin: 20px;
+	padding: 0;
+	color: #666;
+	font-size: small;
+	line-height: 1.82em;
+	font-family: Arial, Helvetica, sans-serif;
+	background: #fff;
+}
+
+form {}
+form label {display: block; float: left; width: 70px; padding-right: 10px;}
+form input[type="text"] {width: 220px; border: 1px solid #ccc; padding: 2px; margin-bottom: 5px;}
+form textarea {border: 1px solid #ccc; width: 220px; height: 100px;}
+form input[type="submit"] {margin-left: 80px; border: none; background: #ccc; color: #fff; padding: 4px 8px; font-variant: small-caps; font-size: 13px; cursor: pointer;}
